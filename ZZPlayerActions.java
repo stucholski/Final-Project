@@ -2,7 +2,7 @@ package finalproj;
 
 import java.util.Scanner;
 
-public class PlayerActions {
+public class ZZPlayerActions {
 	
 	public void reviewActions() {
 		Scanner in = new Scanner(System.in);

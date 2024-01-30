@@ -1,6 +1,6 @@
 package finalproj;
 
-public enum Actions {
+public enum ZZActions {
 
 	Move,
 	Cook,

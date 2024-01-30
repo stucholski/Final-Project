@@ -1,6 +1,6 @@
 package finalproj;
 
-public class Room {
+public class ZZRoom {
 
 	Player1 player = new Player1();
 	PlayerActions actions = new PlayerActions();
