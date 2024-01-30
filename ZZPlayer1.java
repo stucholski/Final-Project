@@ -2,7 +2,7 @@ package finalproj;
 
 import java.util.Scanner;
 
-public class Player1 {
+public class ZZPlayer1 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
