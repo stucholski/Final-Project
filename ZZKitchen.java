@@ -1,6 +1,6 @@
 package finalproj;
 
-public enum Kitchen {
+public enum ZZKitchen {
 
 	Oven,
 	Bowl,
