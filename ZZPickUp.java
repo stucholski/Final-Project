@@ -1,6 +1,6 @@
 package finalproj;
 
-public class PickUp {
+public class ZZPickUp {
 	PlayerActions actions = new PlayerActions();
 	
 	public void pickUpText() {
