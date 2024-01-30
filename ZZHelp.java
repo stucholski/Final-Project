@@ -1,6 +1,6 @@
 package finalproj;
 
-public class Help {
+public class ZZHelp {
 	PlayerActions actions = new PlayerActions();
 	String enter = "You have entered the room.";
 	public void helpText() {
